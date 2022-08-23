@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Project-1-brightgreen)
 [Live Link](https://trend-25.netlify.app/)
 
-## Screeshort
+## Screenshort
 ![Screeshort](Screenshots/Screenshot%20.png)
    * * *
   ## What i learned from this project
